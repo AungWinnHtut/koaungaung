@@ -1,0 +1,7 @@
+I:\Students\koAungAung\Source\2016082901 CS - Hello World\2016082901 CS - Hello World\bin\Debug\2016082901 CS - Hello World.exe
+I:\Students\koAungAung\Source\2016082901 CS - Hello World\2016082901 CS - Hello World\bin\Debug\2016082901 CS - Hello World.pdb
+I:\Students\koAungAung\Source\2016082901 CS - Hello World\2016082901 CS - Hello World\obj\x86\Debug\_2016082901_CS___Hello_World.Properties.Resources.resources
+I:\Students\koAungAung\Source\2016082901 CS - Hello World\2016082901 CS - Hello World\obj\x86\Debug\2016082901 CS - Hello World.csproj.GenerateResource.Cache
+I:\Students\koAungAung\Source\2016082901 CS - Hello World\2016082901 CS - Hello World\obj\x86\Debug\2016082901 CS - Hello World.exe
+I:\Students\koAungAung\Source\2016082901 CS - Hello World\2016082901 CS - Hello World\obj\x86\Debug\2016082901 CS - Hello World.pdb
+I:\Students\koAungAung\Source\2016082901 CS - Hello World\2016082901 CS - Hello World\obj\x86\Debug\_2016082901_CS___Hello_World.frmMain.resources
